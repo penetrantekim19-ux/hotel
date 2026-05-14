@@ -1,0 +1,38 @@
+body { 
+     font-family: Arial; 
+     background: #f0f0f0; 
+     margin: 0; 
+     padding: 20px; 
+}
+.container { 
+     max-width: 1200px; 
+     margin: auto; 
+     background: white; 
+     padding: 20px; 
+     border-radius: 5px; 
+}
+.room-card {
+     border: 1px solid #ddd; 
+     padding: 15px; 
+     margin: 10px; 
+     width: 250px; 
+     display: inline-block; 
+}
+button { 
+     background: #333; 
+     color: white; 
+     padding: 8px 15px; 
+     border: none; 
+     cursor: pointer; 
+}
+.logout { 
+     float: right; 
+     background: #999; 
+}
+.nav { 
+     margin-bottom: 20px; 
+     overflow: hidden; 
+}
+h3 { 
+     color: #333;
+}
